@@ -8,6 +8,7 @@ input {
 
 label{
   font-size: large;
+  font-weight:bold;
 }
 
 textarea{
